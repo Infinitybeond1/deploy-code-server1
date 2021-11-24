@@ -31,4 +31,4 @@ A collection of one-click buttons and scripts for deploying [code-server](https:
 
 Refresh
 Refresh
-
+refresh
